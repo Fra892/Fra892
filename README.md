@@ -12,7 +12,7 @@ On the less theoretical side i like to count, in particular i find multiples of 
 
 ## 🛠️ Programming Languages
 
-- 🧠  **C/C++**, **Java**, **PHP**, **SQL**  
+- 🧠  **C/C++**
 
 
 ---
